@@ -16,6 +16,12 @@ A simple, responsive **Zakat Calculator** built with **React**, **Tailwind CSS**
 
 ---
 
+## 📸 Screenshot
+
+![image](https://github.com/user-attachments/assets/e9c07063-a838-4224-839f-005e36585efb)
+
+---
+
 ## 🚀 Getting Started
 
 To run this project locally:
